@@ -4,17 +4,12 @@ This project demonstrates the design and hardware implementation of an RF Energy
 Target Frequency:
 2.4 GHz (ISM Band).
 
-Antenna Design:
+**Antenna Design**:
 Monopole antenna (6 cm) optimized for Wi-Fi/Bluetooth reception.
 
-High Sensitivity:
-Utilizes Germanium diodes (1N34A) known for low forward voltage drop (
-0.4
-V
-−
-0.6
-V
-), enabling the rectification of very weak RF signals.
+**High Sensitivity:**
+Utilizes Germanium diodes (1N34A) known for low forward voltage drop (0.4V−0.6V), enabling the rectification of 
+very weak RF signals.
 
-Impedance Matching:
+**Impedance Matching:**
 Integrated LC matching network to maximize power transfer and minimize reflection losses.
